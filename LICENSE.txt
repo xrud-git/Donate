@@ -1,6 +1,10 @@
 MIT License
 
-Copyright (c) -- 1. 2021 GitHub Inc.; 2. Sindre Sorhus https://sindresorhus.com; 3. 2018 Oscar Morrison; 4. 2018,2021 ShowdownJS .
+Copyright (c)
+1. GitHub's CSS -- 2021 GitHub Inc. .
+2. github-markdown-css -- Sindre Sorhus https://sindresorhus.com .
+3. md-page -- 2018 Oscar Morrison .
+4. Showdown -- 2018,2021 ShowdownJS .
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
